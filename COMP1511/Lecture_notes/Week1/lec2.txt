@@ -1,0 +1,9 @@
+ls -lha : sequesnces : ownes-groups-everyone;
+scp Your Local File z5131320@cse.unsw.edu.au:  //cope files ot the cse machine;
+scp z5131320@cse.unsw.edu.au: cse mashine files //cope files from the cse mashine;
+  
+
+IMPORTANT !!!!!!!!!!
+1. get values;
+2. process values;
+3. print values;

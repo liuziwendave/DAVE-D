@@ -1,0 +1,17 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <ctype.h>
+
+int main (int argc, char **argv){
+   printf("Input letters: ");
+   char c;//=getchar();
+   char x;
+   
+   do{
+      c=getchar();
+      x=toupper(c);
+   }while(c!='\n');
+
+   printf("%c\n", x);
+   return EXIT_SUCCESS;
+}
